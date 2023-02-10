@@ -1,0 +1,4 @@
+﻿  Task2_Lab7.cpp
+C:\Users\Max\OneDrive\Рабочий стол\Параметризованный конструктор\Task2_Lab7\Task2_Lab7\Task2_Lab7.cpp(58,23): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Max\OneDrive\Рабочий стол\Параметризованный конструктор\Task2_Lab7\Task2_Lab7\Task2_Lab7.cpp(59,25): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  Task2_Lab7.vcxproj -> C:\Users\Max\OneDrive\Рабочий стол\Параметризованный конструктор\Task2_Lab7\x64\Debug\Task2_Lab7.exe
