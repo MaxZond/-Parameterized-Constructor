@@ -72,6 +72,6 @@ int main()
 	Animal pet;
 	pet.print();
 
-	Animal blackThirty(AnimalType::Cat, "бд", "Артём");
+	Animal blackThirty(AnimalType::Cat, "DB", "Ouwen");
 	blackThirty.print();
 }
